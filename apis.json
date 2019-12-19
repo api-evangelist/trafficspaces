@@ -1,0 +1,59 @@
+{
+    "name": "Trafficspaces",
+    "description": "<p>&lt;p&gt;Trafficspaces is a hosted ad management service for publishers. It helps publishers. Convert more advertisers through a user friendly, white labelled, self-service interface. Increase revenue by helping to reduce the dependence on ad networks. Provide ad management services easily through an automated sales, campaign management and reporting workflow. Trafficspaces was designed as an easy-to-use alternative to Google Ad Manager and OpenX.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/1181_logo.png",
+    "tags": [
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/trafficspaces\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Trafficspaces",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/1181_logo.png",
+            "humanURL": "http:\/\/support.trafficspaces.com\/kb\/api\/api-introduction",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/trafficspaces-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/support.trafficspaces.com\/kb\/api\/api-introduction"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.trafficspaces.com\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/feeds.feedburner.com\/Trafficspaces"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/trafficspaces"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/trafficspaces"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/trafficspaces.com\/plans\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/trafficspaces"
+        }
+    ]
+}
